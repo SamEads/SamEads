@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey! I love programming a whole bunch, and I like to place my projects here so that they can be used for public information and to retrieve my works on different devices..
+
+Fun Programming Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameads&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SamEads/SamEads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
